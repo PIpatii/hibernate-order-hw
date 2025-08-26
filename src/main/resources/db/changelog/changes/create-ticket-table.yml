@@ -19,3 +19,6 @@ databaseChangeLog:
               - column:
                   name: user_id
                   type: BIGINT
+              - column:
+                  name: order_id
+                  type: BIGINT

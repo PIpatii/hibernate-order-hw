@@ -17,8 +17,5 @@ databaseChangeLog:
                   name: orderDate
                   type: DATETIME
               - column:
-                  name: ticket_id
-                  type: BIGINT
-              - column:
                   name: user_id
                   type: BIGINT

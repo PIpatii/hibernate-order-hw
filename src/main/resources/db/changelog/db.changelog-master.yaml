@@ -15,5 +15,3 @@ databaseChangeLog:
       file: db/changelog/changes/create-user-table.yml
   - include:
       file: db/changelog/changes/create-shopping_carts_tickets-table.yml
-  - include:
-      file: db/changelog/changes/create-orders_tickets-table.yml
